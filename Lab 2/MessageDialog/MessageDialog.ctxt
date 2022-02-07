@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MessageDialog
+comment0.text=\r\n\ Description\ of\ Swing's\ JOptionPane's\ showMessageDialog\ method.\r\n\r\n\ @author\ Hailey\ M.\ Wendt\r\n\ @version\ 1.0\ -\ 1\ February\ 2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
